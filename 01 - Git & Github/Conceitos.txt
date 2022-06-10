@@ -6,3 +6,6 @@ Tree - Armazenam Blobs
 Commit - Alteração. Aponta pra uma árvore, para outro commit, para um autor ou 
 mensagem.
 
+GIT INIT - inicia um repositório .
+GIT ADD - Move os arquivos do estado Untracked ao Staged, esperando pelo Commit.
+GIT COMMIT - Altera os arquivos e os salva, deixando-os em estado Unmodified. 
