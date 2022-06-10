@@ -1,0 +1,8 @@
+GIT - sistema distribuído seguro.
+
+SSH - encriptação de 40 caracteres. qualquer alteração no arquivo altera seu SHA.
+Blob - contem metadados do git (SHA, tipo, tamanho)
+Tree - Armazenam Blobs
+Commit - Alteração. Aponta pra uma árvore, para outro commit, para um autor ou 
+mensagem.
+
