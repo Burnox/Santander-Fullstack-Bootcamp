@@ -1,0 +1,48 @@
+body{
+    background: url(imagens/daniel-k-cheung-nXKNn2L4fDw-unsplash.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
+main{
+    /* background: whitesmoke; */
+    height: 450px;
+    width: 300px;
+    margin: 10% auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    display: inline;
+}
+
+.card{
+    border: 2px solid black;
+    background: url(imagens/brushed\ metal.jpg);
+    height: 100%;
+    width: 80%;
+    border-radius: 1rem;
+    margin: auto;
+    text-align: center;
+}
+
+.topo{
+    margin: 0;
+    padding-top: 1rem;
+}
+
+.foto {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    border-radius: 5rem;
+}
+
