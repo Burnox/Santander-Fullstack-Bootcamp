@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Comic-Sans, sans-serif;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    background-color: whitesmoke;
+}
+
+main{
+    background-color: lightpink;
+    height: 100vh;
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid black;  
+}
+
+button {
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
